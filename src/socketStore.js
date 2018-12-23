@@ -69,6 +69,6 @@ const store = new Vuex.Store({
   }
 })
 
-Vue.use(VueNativeSock, 'ws://192.168.0.101:8080', { store: store, format: 'json' })
+Vue.use(VueNativeSock, 'ws://awesomechess-server.herokuapp.com', { store: store, format: 'json' })
 
 export default store
