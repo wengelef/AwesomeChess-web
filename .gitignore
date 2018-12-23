@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .DS_Store
 node_modules/
 /dist/
@@ -15,6 +16,8 @@ yarn-error.log*
 *.njsproj
 *.sln
 =======
+=======
+>>>>>>> 1aa6d10359cc431168b51b2343df410c5dabe510
 # Logs
 logs
 *.log
@@ -76,4 +79,7 @@ typings/
 
 # next.js build output
 .next
+<<<<<<< HEAD
 >>>>>>> Initial commit
+=======
+>>>>>>> 1aa6d10359cc431168b51b2343df410c5dabe510
